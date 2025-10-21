@@ -1,0 +1,18 @@
+# Lean / Lake build artifacts
+/lake-packages/
+/.lake/
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS / general
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Optional: backup files
+*~
+*.bak
